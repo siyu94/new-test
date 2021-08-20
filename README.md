@@ -1,3 +1,5 @@
 # My new Github repo
 
-Hello Friday!
+Hello Friday! I am not a robot!
+
+Feierabend!
