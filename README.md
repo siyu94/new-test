@@ -1,2 +1,3 @@
-# new-test
-This is a new test repo
+# My new Github repo
+
+Hello Friday!
