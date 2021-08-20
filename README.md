@@ -4,3 +4,6 @@ Hello, Friday! I am not a robot!
 
 Feierabend!
 
+add new text
+
+some useful messages
